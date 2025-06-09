@@ -1,4 +1,4 @@
-# Real Estate React client 🏘️
+# Real Estate React Client 
 
 ## What's this project is about
 
