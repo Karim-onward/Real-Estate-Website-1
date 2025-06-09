@@ -8,7 +8,7 @@ Buyer of real estate can find contacts of seller. In case seller enabled online 
 **Disclaimer:**
 This project was merely a learning exercise as well as my first sizeable project delving into React, Redux & other used technologies.
 
-## Readme Content
+## ReadMe Content 
 
 - [Technologies Used](https://github.com/Karim-onward/Real-Estate-Website-1/tree/feat/readme-update#technologies-used)
 - [Terms & Conditions](https://github.com/Karim-onward/Real-Estate-Website-1#terms--conditions)
